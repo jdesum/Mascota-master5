@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_favoritos">Mi mascotas favoritas</string>
+    <string name="app_contacto">Contacto</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acercade">Acerca de mi</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_acerca_de">Jorge D.R.</string>
+
+    <string name="titulo_perfil">Perfil</string>
+    <string name="perfil">
+        "\n"
+        "Experiencia como programador de computadoras en empresas de programación.\n\n"
+
+        "Experto en el manejo de las siguientes plataformas\n\n"
+
+        "Perl, MySQL, Linux, Apache, Mason, XML, XSL, HTML, JavaScript, Java, MS C + + ASP, "
+        "Asamblea8086, Fortran, Cobol, firewall de red y a prueba de hackers de instalación, "
+        "configuración de servidores y la creación automática de sitios web. \n\n"
+
+        "Especialidad: Relaciones públicas para los negocios en internet.\n\n"
+    </string>
+
+    <string name="titulo_experiencia">Experiencia Laboral</string>
+    <string name="experiencia">
+        "\n"
+        "Clínica Soft- Soluciones en Software y Sistemas (Madrid / 2010 - Presente):\n"
+
+        "Ingeniero de Software - Encargado del desarrollo de una plataforma administrativa para ASP "
+        "(Application Service Provider). Se Utilizó herramientas desarrolladas para la "
+        "personalización y la integración con productos de terceros. Se diseñó y programó el "
+        "sistema de aprovisionamiento de Unix.\n\n"
+
+        "Visual System Data Software (Madrid / 2007 - 2009):\n"
+        "Programador / PC - Se desarrolló el código para las tareas de contabilidad dentro de "
+        "la corporación, incluyendo la estimación de costes, cálculo de salarios, suministros "
+        "adquiridos, la observación de 20 asociados entre otras actividades. Se trabajó con "
+        "aplicaciones de soporte de CAD en C.\n\n"
+
+    </string>
+
+    <string name="titulo_estudios">Educación</string>
+    <string name="estudios">
+        " \n"
+        "2002 BA, Ciencias de la Computación y Administración de Empresas\n"
+        "Universidad Autónoma de Madrid\n\n"
+
+    </string>
+
+    <string name="notificacion">Inicia sesión para acceder a Gmail</string>
+    <string name="nota">Nota: Puede ser necesario revisar configuración de la cuenta de Gmail para permitir aplicaciones menos seguras</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="password2">repeat password</string>
+    <string name="foto">Foto</string>
+    <string name="title_activity_enviar_email">Enviar Mensaje</string>
+    <string name="mi_email">correo</string>
+    <string name="mi_pass">password</string>
+</resources>
